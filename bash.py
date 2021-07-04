@@ -38,6 +38,7 @@ banner2 = """
 print banner
 print banner2
 
+os.system("clear")
 def dekrip():
    try:
        sc = raw_input(ask + W + "ѕcrιpт" + G + " ➢ " + W + P )
